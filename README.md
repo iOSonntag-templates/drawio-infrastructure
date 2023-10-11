@@ -15,7 +15,9 @@
 
 <br/>
 
->*To see a bigger version of the example above visit the [examples section](#examples).*
+>*To see a bigger version of the example above visit the [examples section](#examples).* 
+
+<br/>
 
 ## Getting started
 Download the `template.drawio` file and open it at [draw.io](https://draw.io). That's it!  
