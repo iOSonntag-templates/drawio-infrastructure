@@ -9,10 +9,17 @@
 
 *A [draw.io](https://draw.io) template for creating software architecture &amp; infrastructure diagrams. Blazing fast &amp; beautiful.*
 
-To get started just download the `template.drawio` file and open it at [draw.io](https://draw.io). That's it!  
->If you have connected your GitHub account with [draw.io](https://draw.io) like shown in [this blog](https://drawio-app.com/blog/github-support/) - you can clone/fork this repo instead and directly open it in [draw.io](https://draw.io).
 
-To see examples visit [examples section](#examples). 
+
+<img src="resources/example_creavings.png?raw=true" width="300">  
+
+<br/>
+
+>*To see a bigger version of the example above visit the [examples section](#examples).*
+
+## Getting started
+Download the `template.drawio` file and open it at [draw.io](https://draw.io). That's it!  
+>If you have connected your GitHub account with [draw.io](https://draw.io) like shown in [this blog](https://drawio-app.com/blog/github-support/) - you can clone/fork this repo instead and directly open it in [draw.io](https://draw.io).
 
 ## Template Overview
 
